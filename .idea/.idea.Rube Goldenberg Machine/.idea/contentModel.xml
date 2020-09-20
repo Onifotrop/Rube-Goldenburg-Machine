@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\harry\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\harry\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Rube Goldenberg Machine.-97205673.00" t="ExcludeRecursive" />
+    <e p="E:\NYU2020\Intermediate Game Dev\Rube Goldenberg Machine" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="audi.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="GameManager.cs" t="Include" />
+          <e p="NewBehaviourScript.cs" t="Include" />
+          <e p="SFX Controll.cs" t="Include" />
+        </e>
+        <e p="TrigFive.cs" t="Include" />
+        <e p="TrigFour.cs" t="Include" />
+        <e p="TrigOne.cs" t="Include" />
+        <e p="TrigThree.cs" t="Include" />
+        <e p="TrigTwo.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Rube Goldenberg Machine.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
